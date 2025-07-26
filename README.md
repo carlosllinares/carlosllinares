@@ -7,6 +7,7 @@ y más recientemente he incorporado a mi elenco las últimas herramientas de IA:
 
 Actualmente, mi especialidad es el tratamiento de datos (Big Data), la obtención de insights mediante la aplicación de técnicas y modelos estadísticos (redes neuronales, aprendizaje automático, etc), 
 y la posterior visualización (Power BI, Qlick, Datawrapper).
+
 Otro campo que me apasiona es la automatización, tanto mediante scripts como con herramientas como Power Automate.
 
 🛠 Estas son mis herramientas de trabajo:
